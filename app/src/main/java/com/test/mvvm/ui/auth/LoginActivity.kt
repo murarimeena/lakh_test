@@ -30,4 +30,8 @@ class LoginActivity : AppCompatActivity(), AuthListener {
     override fun onFailure(msg: String) {
         toast(msg)
     }
+
+    private fun onClickFun() {
+
+    }
 }
