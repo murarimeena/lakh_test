@@ -14,4 +14,8 @@ public class Bumblebee {
         System.out.println("method info");
     }
 
+    private static void thidMehod() {
+        System.out.println("third method");
+    }
+
 }
