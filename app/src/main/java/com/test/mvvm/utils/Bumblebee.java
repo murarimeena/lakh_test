@@ -7,6 +7,8 @@ public class Bumblebee {
         System.out.println("loremipsum");
         System.out.println("new feature from feature branch");
         System.out.println("feedback from feature branch");
+        System.out.println("new feature from feature branch");
+        System.out.println("feedback from feature branch");
         callAnotherMethod();
     }
 
