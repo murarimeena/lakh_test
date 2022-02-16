@@ -14,4 +14,12 @@ public class Bumblebee {
         System.out.println("method info");
     }
 
+    private static void m100() {
+        System.out.println("m100");
+    }
+
+    private static void m101() {
+        System.out.println("m101");
+    }
+
 }
